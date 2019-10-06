@@ -10,8 +10,8 @@ class App extends React.Component  {
       totalNum: 0,
       pyramids: [
         [],
-        [],
-        [100, 80, 60, 40, 20],
+        [20],
+        [100, 80, 60, 40],
       ]
      }
    }
